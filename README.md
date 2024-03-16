@@ -7,7 +7,7 @@ Before running and viewing our [reproduceable results](comparison_results.ipynb)
 
 ## Environment Setup
 
-To construct a Conda Python environmetn to run this pipeline with, ensure conda Conda is installed and run
+To construct a Conda Python environment to run this pipeline with, ensure Conda is installed and run
 
 ``` shell
 conda env create -f env.yml
@@ -20,3 +20,5 @@ conda activate weather_predict
 ```
 
 Note that this environment must be connected to `comparison_results.ipynb` before running. For help achieving this, see [this article](https://saturncloud.io/blog/how-to-use-conda-environment-in-a-jupyter-notebook/).
+
+Also note that this environment was only tested on Mac, compatability issues may exist on other operating systems. 
