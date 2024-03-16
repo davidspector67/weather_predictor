@@ -21,4 +21,4 @@ conda activate weather_predict
 
 Note that this environment must be connected to `comparison_results.ipynb` before running. For help achieving this, see [this article](https://saturncloud.io/blog/how-to-use-conda-environment-in-a-jupyter-notebook/).
 
-Also note that this environment was only tested on Mac, compatability issues may exist on other operating systems. 
+Also note that this environment was only tested on Mac, compatability issues may exist on other operating systems.
